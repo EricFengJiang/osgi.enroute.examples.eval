@@ -1,0 +1,12 @@
+#
+#   OSGi enRoute Eval Example
+#
+
+Bundle-Description:    \
+        Provides a parsii implementation for an eval parser
+		
+Export-Package: osgi.enroute.examples.eval.api
+
+Private-Package: \
+	parsii.*,   \
+	osgi.enroute.examples.eval.parsii.provider

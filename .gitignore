@@ -1,0 +1,7 @@
+target/
+generated/
+*/bin/
+*/bin-test/
+*/target/
+*/generated/**/*.class
+**/*.jar
